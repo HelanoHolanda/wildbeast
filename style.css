@@ -117,7 +117,7 @@ header{
     transition: 0.1s;
     
 }
-.sidnav li img:hover{
+.sidnav li a:hover{
     background: #b07dfb;
 }
 @keyframes arrow {
